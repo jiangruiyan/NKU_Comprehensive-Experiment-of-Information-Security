@@ -1,0 +1,57 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: md5WithRSAEncryption
+        Issuer: O=JRYorg, OU=JRYunit, CN=JRY/emailAddress=2313546@mail.nankai.edu.cn
+        Validity
+            Not Before: Mar  4 15:18:57 2026 GMT
+            Not After : Mar  4 15:18:57 2027 GMT
+        Subject: O=ServerCom, OU=ServerOU, CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:ad:50:c5:62:e1:4d:88:80:96:42:cc:71:57:f1:
+                    68:ee:76:53:f3:1a:5f:56:15:19:ef:07:61:89:44:
+                    23:f8:0e:b5:78:88:b1:31:7e:f6:7d:26:55:9e:02:
+                    ac:f5:a7:28:ad:f1:fb:a4:e6:44:1d:06:7c:26:99:
+                    41:9f:4b:ab:c0:e9:02:28:1e:54:dc:d1:5f:2b:84:
+                    6c:19:33:ec:42:ed:5d:ab:c5:ec:a7:e9:1d:db:ed:
+                    9e:b5:30:4b:bc:06:02:0d:32:88:b3:59:19:b9:e9:
+                    cc:ef:f4:f5:61:d2:86:da:05:3e:9e:16:c2:02:e6:
+                    40:51:77:e4:66:9c:80:ce:1d
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+    Signature Value:
+        11:19:91:69:76:16:4a:68:29:12:01:0f:d1:40:f9:4c:45:3f:
+        46:d7:43:d7:de:28:90:ef:b7:39:00:8a:16:b0:67:1a:26:4c:
+        73:9c:7d:2c:54:10:25:0a:15:95:a5:2c:d1:2c:95:36:fd:f1:
+        17:f1:3d:bd:be:3b:03:5b:a2:5b:03:e6:f8:5e:ec:03:26:fd:
+        9c:30:48:38:85:58:f5:86:b7:c9:6c:e6:72:31:76:dd:34:c0:
+        3b:bd:39:2c:56:d8:94:fc:f4:07:ad:ae:57:b5:38:ce:cb:e5:
+        8c:6e:41:f1:0f:0a:39:cd:6a:26:1b:e5:94:aa:fc:0b:1b:bd:
+        9a:de:ac:a6:f5:73:98:95:61:b8:b4:c8:a6:ab:8f:2e:33:a2:
+        e9:b0:53:68:18:fe:07:54:ca:d9:3c:9d:10:12:e4:3b:ea:db:
+        27:bb:fa:4f:5f:53:1a:3d:b0:eb:1e:05:91:53:1f:86:0f:86:
+        09:e2:76:af:37:15:5e:57:65:c7:92:09:dc:1a:86:ef:6a:6e:
+        75:ab:61:e8:b0:ab:fe:07:90:80:bd:44:24:d0:11:7f:d3:ac:
+        ef:7c:39:06:da:d1:fb:f6:53:2f:e6:33:13:b1:95:3d:cc:35:
+        8e:1e:45:ab:52:e0:4d:f5:1b:36:6e:ac:c9:42:00:63:0f:0c:
+        36:32:7e:e6
+-----BEGIN CERTIFICATE-----
+MIIChDCCAWwCAQEwDQYJKoZIhvcNAQEEBQAwXDEPMA0GA1UECgwGSlJZb3JnMRAw
+DgYDVQQLDAdKUll1bml0MQwwCgYDVQQDDANKUlkxKTAnBgkqhkiG9w0BCQEWGjIz
+MTM1NDZAbWFpbC5uYW5rYWkuZWR1LmNuMB4XDTI2MDMwNDE1MTg1N1oXDTI3MDMw
+NDE1MTg1N1owODESMBAGA1UECgwJU2VydmVyQ29tMREwDwYDVQQLDAhTZXJ2ZXJP
+VTEPMA0GA1UEAwwGc2VydmVyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCt
+UMVi4U2IgJZCzHFX8WjudlPzGl9WFRnvB2GJRCP4DrV4iLExfvZ9JlWeAqz1pyit
+8fuk5kQdBnwmmUGfS6vA6QIoHlTc0V8rhGwZM+xC7V2rxeyn6R3b7Z61MEu8BgIN
+MoizWRm56czv9PVh0obaBT6eFsIC5kBRd+RmnIDOHQIDAQABMA0GCSqGSIb3DQEB
+BAUAA4IBAQARGZFpdhZKaCkSAQ/RQPlMRT9G10PX3iiQ77c5AIoWsGcaJkxznH0s
+VBAlChWVpSzRLJU2/fEX8T29vjsDW6JbA+b4XuwDJv2cMEg4hVj1hrfJbOZyMXbd
+NMA7vTksVtiU/PQHra5XtTjOy+WMbkHxDwo5zWomG+WUqvwLG72a3qym9XOYlWG4
+tMimq48uM6LpsFNoGP4HVMrZPJ0QEuQ76tsnu/pPX1MaPbDrHgWRUx+GD4YJ4nav
+NxVeV2XHkgncGobvam51q2HosKv+B5CAvUQk0BF/06zvfDkG2tH79lMv5jMTsZU9
+zDWOHkWrUuBN9Rs2bqzJQgBjDww2Mn7m
+-----END CERTIFICATE-----

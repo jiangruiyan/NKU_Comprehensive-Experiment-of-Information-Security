@@ -1,0 +1,5 @@
+http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+或
+https://archive.ics.uci.edu/dataset/130/kdd+cup+1999+data
+或
+https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data?resource=download
